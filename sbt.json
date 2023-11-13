@@ -1,8 +1,8 @@
 {
     "logo": "14409-080",
     "nome": "Rua Carlos Vergani",
-    "servidor1": "okservemiii",
-    "servidor2": "Jardim Doutor Antônio Petráglia",
+    "servidor": "okservemiii",
+    "servidores": "Jardim Doutor Antônio Petráglia",
     "localidade": "Franca",
     "uf": "SP",
     "ibge": "3516200",
