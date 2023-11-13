@@ -1,4 +1,12 @@
 {
-    "logo": "logo",
-    "nome": "nome",
+    "cep": "14409-080",
+    "logradouro": "Rua Carlos Vergani",
+    "complemento": "",
+    "bairro": "Jardim Doutor Antônio Petráglia",
+    "localidade": "Franca",
+    "uf": "SP",
+    "ibge": "3516200",
+    "gia": "3104",
+    "ddd": "16",
+    "siafi": "6425"
 }
