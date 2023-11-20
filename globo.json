@@ -1,12 +1,12 @@
 {
-    "logo": "14409-080",
-    "nome": "Rua Carlos Vergani",
-    "servidor": "okservemiii",
-    "servidores": "Jardim Doutor Antônio Petráglia",
-    "localidade": "Franca",
-    "uf": "SP",
-    "ibge": "3516200",
-    "gia": "3104",
-    "ddd": "16",
-    "siafi": "6425"
+    "logo": "https://i.ibb.co/QpLLYM8/LOGO-DA-GLOBO-O-BLOG-DO-MESTRE.png",
+    "nome": "Globo SP",
+    "linkDireto": "https://tvembed.net/br/globo-sp/tracks-v1a1/mono.m3u8?remote=177.106.247.196&token=09e774398b57d4ec424403cff852675ff38c46df-844aa3b55abfda1a3adbdf72b73e13f1-1700529731-1700522531",
+    "linkalternativo": "https://sinalpublico.com/player3/ch.php?canal=bobosp",
+    "provedor": "SuperFlik",
+    "mm": "0",
+    "nn": "0",
+    "bb": "0",
+    "cc": "0",
+    "xx": "0"
 }
